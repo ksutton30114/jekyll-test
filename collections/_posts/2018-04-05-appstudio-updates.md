@@ -31,7 +31,7 @@ Delivering results in an uncertain world is as important now as it has ever been
 <figure>
     <iframe src="https://ge.ent.box.com/embed/s/newajnvclsecyxwtlud1wcj9g0eejvcb" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
     <figcaption>Vid1. - Discussion with MOS leadership re: the appStudio.</figcaption>
-  </figure>
+</figure>
  
 ## Updates
 ### Aviation:
