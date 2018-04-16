@@ -1,0 +1,41 @@
+--- 
+title: "'The Hive' RunBook <br /> Secure Software Development"
+layout: splash
+excerpt: "Driving Software Development **_Productivity_**, **_Security_**, and **_Quality_** <br />through proven **_Standards & Best Practices_**."
+header:
+    overlay_image: /assets/images/header-images/honeycomb-crop.jpg
+    overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+feature_row:
+  - image_path: /assets/images/gallery/articles.jpg
+    alt: "RunBook Articles"
+    title: "Articles"
+    excerpt: "Collection of Secure Software Development **Standards & Best Practices**"
+    url: "/articles/"
+    btn_label: "Review Articles"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/gallery/training2.jpg
+    alt: "RunBook Training"
+    title: "Training"
+    excerpt: "Collection of **Training Media** for implementing RunBook Best Practices and/or Tool-sets"
+    url: "/trainings/"
+    btn_label: "Review Training"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/gallery/news.jpg
+    alt: "RunBook Blog: 'The Buzz'"
+    title: "Blog: 'The Buzz'"
+    excerpt: "**News & Announcements** in the DT Secure Software Development space"
+    url: "/posts/"
+    btn_label: "Review Blog"
+    btn_class: "btn--primary"
+entries_layout: grid
+---
+
+{% include feature_row %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

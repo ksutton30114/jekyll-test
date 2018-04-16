@@ -1,0 +1,62 @@
+Kevin Sutton:
+  avatar: "/assets/images/avatars/bio-photo.jpg"
+  name: "Kevin Sutton"
+  bio: "Software Architect"
+  location: "Atlanta, GA (US)"
+  email: "kevin.sutton@ge.com"
+  linkedin: "kevinsutton"
+  github: "204020924"
+  sso: "204020924"
+
+Ken Shum:
+  avatar: "/assets/images/avatars/bio-photo.jpg"
+  name: "Ken Shum"
+  bio: "Software Engineer"
+  location: "San Ramon, CA (US)"
+  email: "kenneth.shum@ge.com"
+  github: "212590563"
+  sso: "212590563"
+
+Scott Paar:
+  avatar: "/assets/images/avatars/bio-photo.jpg"
+  name: "Scott Paar"
+  bio: "Principal Technical Program Manager"
+  location: "Wauwatosa, WI (US)"
+  email: "scott.e.paar@ge.com"
+  github: "212031507"
+  sso: "212031507"
+
+Sam Neely:
+  avatar: "/assets/images/avatars/bio-photo.jpg"
+  name: "Sam Neely"
+  bio: "Sr Software Engineer"
+  location: "New Orleans, LA (US)"
+  email: "samuel.neely@ge.com"
+  github: "212449862"
+  sso: "212449862"
+
+Sudheer Dhurjati:
+  avatar: "/assets/images/avatars/sudheer-dhurjati.jpg"
+  name: "Sudheer Dhurjati"
+  bio: "Director, Software Engineering"
+  location: "Bangalore, India"
+  email: "sudheer.dhurjati@ge.com"
+  github: "212592692"
+  sso: "212592692"
+
+Naga Sathyanarayana:
+  avatar: "/assets/images/avatars/bio-photo-2.jpg"
+  name: "Naga Sathyanarayana"
+  bio: "Director, Software Engineering"
+  location: "Bangalore, India"
+  email: "nagaprasad.sathyanarayana@ge.com"
+  github: "212590411"
+  sso: "212590411"
+
+David O'Malley:
+  avatar: "/assets/images/avatars/bio-photo.jpg"
+  name: "David O'Malley"
+  bio: "Sr Agile Transformer"
+  location: "Norwalk, CT (US)"
+  email: "david.omalley@ge.com"
+  sso: "212469532"

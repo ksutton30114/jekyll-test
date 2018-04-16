@@ -1,0 +1,67 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Articles"
+    url: /articles/
+  - title: "Training"
+    url: /trainings/
+  - title: "Blog"
+    url: /posts/
+  - title: "About"
+    url: /about/
+  # - title: "External Link"
+  #   url: https://google.com
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+content-nav:
+  - title: "Home"
+    url: /
+  - title: "RunBook Articles"
+    url: /article-toc/
+    children:
+      - title: "RunBook ToC"
+        url: /article-toc/
+      - title: "Articles by Category"
+        url: /article-categories/
+      - title: "Articles by Tag"
+        url: /article-tags/
+      - title: "Articles by Date"
+        url: /articles/
+  - title: "RunBook Training"
+    url: /training-toc/
+    children:
+      - title: "Training ToC"
+        url: /training-toc/
+      - title: "Training by Categories"
+        url: /training-categories/
+      - title: "Training by Tags"
+        url: /training-tags/
+      - title: "Training by Date"
+        url: /trainings/
+  - title: "Blog: 'The Buzz'"
+    url: /posts/
+    children:
+      - title: "Blog Posts by Date"
+        url: /posts/
+      - title: "Blog Posts by Category"
+        url: /post-categories/
+      - title: "Blog Posts by Tag"
+        url: /post-tags/
+  - title: "RunBook Resources"
+    children:
+      - title: "Drone Deploy Kit"
+        url: /
+      - title: "DevHub"
+        url: /
+  - title: "About"
+    url: /about/
+
+custom-nav:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
